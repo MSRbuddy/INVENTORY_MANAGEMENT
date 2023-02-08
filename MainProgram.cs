@@ -99,13 +99,6 @@ namespace JsonInventoryManagement
                         Console.WriteLine(" Invalid Option number. Please Retry.");
                     }
                     break;
-
-                case 4:
-                    break;
-
-                default:
-                    Console.WriteLine(" Invalid Option number. Please Retry.");
-                    break;
             }
         }
     }
